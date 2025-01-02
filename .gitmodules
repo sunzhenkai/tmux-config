@@ -1,0 +1,6 @@
+[submodule "3rd/oh-my-tmux"]
+	path = 3rd/oh-my-tmux
+	url = https://github.com/gpakosz/.tmux.git
+[submodule "3rd/tpm"]
+	path = 3rd/tpm
+	url = https://github.com/tmux-plugins/tpm.git
